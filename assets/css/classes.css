@@ -1,0 +1,18 @@
+.main-content {
+    max-width: 120rem; 
+    margin: 0 auto;
+    padding: var(--gap);
+}
+
+.section {
+    min-height: 100vh;
+}
+
+.white-bg {
+    background: var(--primary-color);
+    color: var(--second-color);
+}
+
+.menu-spacing {
+    height: 6.5rem;
+}
